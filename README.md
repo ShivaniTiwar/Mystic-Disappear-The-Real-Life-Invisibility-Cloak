@@ -56,8 +56,6 @@ python app.py
 ## 📌 Tags 
 
 
-
-#GhostWrap 
 #Python 
 #OpenCV 
 #ComputerVision 
